@@ -4,8 +4,8 @@
 
 - <b>Lima Charlie Article Post</b>
   - [LimaCharlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Explore signatures and logs with Suricata</b>
+  - [Signatures and Logs Exploring Suricata](https://github.com/nigeltho12/SuricataLogs/blob/main/README.md) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
