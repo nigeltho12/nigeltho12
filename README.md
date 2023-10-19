@@ -7,8 +7,8 @@
 - <b>Explore signatures and logs with Suricata</b>
   - [Signatures and Logs Exploring Suricata](https://github.com/nigeltho12/SuricataLogs/blob/main/README.md) 
 - <b>PowerShell</b>
- - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+ - [JWipe (Disk Wiping Utility)](https://github.com/nigeltho12/Jwipedu)
+  
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
