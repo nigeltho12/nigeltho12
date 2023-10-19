@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nigel! <br/> <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/)">Cybersecurity Professional</a>, </a></h1>
 
-<h2>👨‍💻 Cybersecurity Articles:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Lima Charlie Article Post</b>
   - [LimaCharlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D)
