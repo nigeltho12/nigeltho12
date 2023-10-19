@@ -11,7 +11,7 @@
   
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Develop an Algorithm Demo)](https://github.com/nigeltho12/algorithm/)
 
 <h2>📺 YouTube Videos</h2>
 
