@@ -11,7 +11,7 @@
   
 
 - <b>Python</b>
-  [Develop an Algorithm Demo](https://github.com/nigeltho12/algorithm/)
+    - [Develop an Algorithm Demo](https://github.com/nigeltho12/algorithm/)
 
 <h2>📺 YouTube Videos</h2>
 
