@@ -12,6 +12,7 @@
 
 - <b>Python</b>
     - [Develop an Algorithm Demo](https://github.com/nigeltho12/algorithm/)
+    - [File Handling in Python](https://github.com/nigeltho12/filehandling_inpython/)
 
 <h2>📺 YouTube Videos</h2>
 
