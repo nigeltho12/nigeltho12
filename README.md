@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nigel! <br/> <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/)">Cybersecurity Professional</a>, </a></h1>
+<h1>Hi, I'm Nigel! <br/> <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/)">IT Professional with a passion for Cybersecurity</a>, </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
