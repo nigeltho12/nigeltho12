@@ -18,6 +18,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Lima Charlie Home Lab](https://youtu.be/tO2N1mviKWs?si=LGRtWICoIUKmOGxA)
+- [Net Noir News](https://youtube.com/@netnoirnews?si=c1mTsJsyJ0EWaoWw)
 
 
 
