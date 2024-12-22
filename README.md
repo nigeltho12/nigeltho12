@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
+  - [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure)
 - <b>Lima Charlie Article Post</b>
   - [LimaCharlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D)
 - <b>Explore signatures and logs with Suricata</b>
