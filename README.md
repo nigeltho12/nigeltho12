@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast & IT professional passionate about defending digital systems, building detection infrastructure, and breaking down technical concepts for others.
+ybersecurity enthusiast & IT professional passionate about defending digital systems, analyzing threat behavior, and learning both offensive and defensive security strategies. I thrive on digging into threats, building detection logic, and exploring how adversaries operate.
 
 ---
 
@@ -87,4 +87,4 @@ I'm currently focused on becoming a Tier 1 SOC Analyst. I'm developing practical
 ---
 
 ## 🚀 Let's Connect
-If you're into cybersecurity, blue teaming, or building detection labs—hit me up! I'm always down to connect and collab.
+If you're into cybersecurity, blue teaming, red teaming, or building detection labs — let’s connect and collaborate. Always happy to learn from others and contribute to the community!
