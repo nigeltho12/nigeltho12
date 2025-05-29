@@ -2,12 +2,12 @@
 
 <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity enthusiast & IT professional passionate about defending digital systems, analyzing threat behavior, and learning both offensive and defensive security strategies. I thrive on digging into threats, building detection logic, and exploring how adversaries operate.
+IT professional and network engineering student with a strong foundation in both networking and cybersecurity. I’m passionate about building, securing, and troubleshooting systems — from configuring switches and firewalls to hunting threats and analyzing logs. Whether it's optimizing uptime or defending infrastructure, I bring curiosity, precision, and drive to every project.
 
 ---
 
 ## 🎯 Objective
-I'm currently exploring various roles in cybersecurity — from SOC analyst and threat hunter to red teamer and incident responder. I'm passionate about solving problems, understanding how systems work (and break), and building a strong foundation in both offense and defense through real-world labs and projects.
+I'm currently pursuing opportunities in networking and cybersecurity — including NOC, network support, SOC analyst, and hybrid infrastructure roles. My goal is to grow into a well-rounded engineer who understands both how networks are built and how they’re attacked. I thrive on hands-on labs, packet captures, SIEM alerts, and scripting solutions that keep systems running smoothly and securely.
 
 ---
 
@@ -25,20 +25,21 @@ I'm currently exploring various roles in cybersecurity — from SOC analyst and 
 
 ## 🧰 Tools & Platforms
 
-### 🖥️ Endpoint Security
+### 🖥️ Endpoint & System Security
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### 🌐 Network Security
+### 🌐 Network & Infrastructure
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0C2C56?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GNS3-111111?&style=for-the-badge&logo=GNS3&logoColor=white" />
 </div>
 
-### 🔍 SIEM / Detection
+### 🔍 Detection & Monitoring
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -57,34 +58,37 @@ I'm currently exploring various roles in cybersecurity — from SOC analyst and 
 
 ---
 
-## 🔐 Featured Cybersecurity Projects
+## 🔐 Featured Projects
 
 - 🧠 **SOC Detection Lab in Azure**  
-  [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) – Live traffic capture, threat detection, and SIEM integration with Microsoft Sentinel.
+  [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) – Real traffic, SIEM alerts, and detection logic using Microsoft Sentinel.
 
 - 📄 **Article + Breakdown**  
-  [LimaCharlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson) – SOC-as-Code overview + tooling.
+  [LimaCharlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson) – SOC-as-Code deep dive with lessons from the field.
 
 - 🚨 **Suricata Log Exploration**  
-  [Signatures & PCAP Analysis](https://github.com/nigeltho12/SuricataLogs) – Explore IDS alerts, PCAP patterns, and rule tuning.
+  [Signatures & PCAP Analysis](https://github.com/nigeltho12/SuricataLogs) – IDS rule tuning and alert analysis.
 
 - 💻 **PowerShell: JWipe Utility**  
-  [JWipe – Secure Disk Cleaner](https://github.com/nigeltho12/Jwipedu) – PowerShell-based drive wiping script.
+  [JWipe – Secure Disk Cleaner](https://github.com/nigeltho12/Jwipedu) – Custom script for secure disk wiping operations.
 
 - 🐍 **Python Projects**  
   [Treasure Island](https://github.com/nigeltho12/treasure_island/) • [File Handling](https://github.com/nigeltho12/filehandling_inpython/) • [Algorithm Demo](https://github.com/nigeltho12/algorithm/)
 
 - 🕵️ **Threat Hunting Scenarios**  
-  [Cyber Range Detection Exercises](https://github.com/nigeltho12/ThreatHuntScenarios-CyberRange) – SOC-ready threat hunts with mapped telemetry, IoCs, and KQL detections.
+  [Cyber Range Detection Exercises](https://github.com/nigeltho12/ThreatHuntScenarios-CyberRange) – Simulated hunts, telemetry mapping, and detections using KQL.
 
 ---
 
 ## 📺 Videos
 
-- 🎥 [Lima Charlie Home Lab Walkthrough](https://youtu.be/tO2N1mviKWs?si=LGRtWICoIUKmOGxA)
+- 🎥 [Lima Charlie Home Lab Walkthrough](https://youtu.be/tO2N1mviKWs?si=LGRtWICoIUKmOGxA)  
 - 📰 [Net Noir News on YouTube](https://youtube.com/@netnoirnews?si=c1mTsJsyJ0EWaoWw)
 
 ---
 
-## 🚀 Let's Connect
-If you're into cybersecurity, blue teaming, red teaming, or building detection labs — let’s connect and collaborate. Always happy to learn from others and contribute to the community!
+## 🤝 Let’s Connect
+Interested in networks, packets, logs, or SOC workflows? Me too.  
+I'm always up for collaborating, learning, and pushing the limits of what junior techs can build.  
+Feel free to explore my projects, or shoot me a message if you'd like to connect.
+
