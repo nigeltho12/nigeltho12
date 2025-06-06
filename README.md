@@ -15,6 +15,7 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 
 | Skill                                         | Project         |
 |----------------------------------------------|------------------|
+| Network Design + VLAN Routing + ACLs         | [SMB Network Redesign](https://github.com/nigeltho12/smb-network-redesign) |
 | SIEM Implementation + Log Analysis           | [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) |
 | Network Threat Detection with Suricata       | [Suricata Log Exploration](https://github.com/nigeltho12/SuricataLogs) |
 | Cyber Threat Research + Writing              | [Lima Charlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D) |
@@ -60,6 +61,9 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 
 ## 🔐 Featured Projects
 
+- 🚀 **SMB Network Redesign**  
+  [Full VLAN + ACL Implementation](https://github.com/nigeltho12/smb-network-redesign) — Departmental segmentation, router-on-a-stick setup, and security controls in Packet Tracer.
+
 - 🧠 **SOC Detection Lab in Azure**  
   [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) – Real traffic, SIEM alerts, and detection logic using Microsoft Sentinel.
 
@@ -91,4 +95,3 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 Interested in networks, packets, logs, or SOC workflows? Me too.  
 I'm always up for collaborating, learning, and pushing the limits of what junior techs can build.  
 Feel free to explore my projects, or shoot me a message if you'd like to connect.
-
