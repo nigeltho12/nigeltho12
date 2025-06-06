@@ -16,6 +16,7 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 | Skill                                         | Project         |
 |----------------------------------------------|------------------|
 | Network Design + VLAN Routing + ACLs         | [SMB Network Redesign](https://github.com/nigeltho12/smb-network-redesign) |
+| Network Assessment + Cloud Migration Planning| [SMB Assessment Toolkit](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) |
 | SIEM Implementation + Log Analysis           | [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) |
 | Network Threat Detection with Suricata       | [Suricata Log Exploration](https://github.com/nigeltho12/SuricataLogs) |
 | Cyber Threat Research + Writing              | [Lima Charlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D) |
@@ -63,6 +64,9 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 
 - 🚀 **SMB Network Redesign**  
   [Full VLAN + ACL Implementation](https://github.com/nigeltho12/smb-network-redesign) — Departmental segmentation, router-on-a-stick setup, and security controls in Packet Tracer.
+
+- 🧠 **SMB Network Assessment & Migration Toolkit**  
+  [Realistic SMB Infrastructure Upgrade](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) — Assessment, cloud migration planning, and security strategy using Microsoft 365 and Azure.
 
 - 🧠 **SOC Detection Lab in Azure**  
   [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) – Real traffic, SIEM alerts, and detection logic using Microsoft Sentinel.
