@@ -2,25 +2,29 @@ name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
   generate:
-    name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
 
     steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: nigeltho12
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Upload SVG to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
