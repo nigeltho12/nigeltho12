@@ -19,9 +19,11 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 | Network Assessment + Cloud Migration Planning| [SMB Assessment Toolkit](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) |
 | SIEM Implementation + Log Analysis           | [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) |
 | Network Threat Detection with Suricata       | [Suricata Log Exploration](https://github.com/nigeltho12/SuricataLogs) |
+| CTF Strategy + Multi-Domain Security Analysis| [DoD Cyber Sentinel CTF June 2025](https://github.com/nigeltho12/DoD_CorrelationOneCyberSentinelCTF) |
 | Cyber Threat Research + Writing              | [Lima Charlie Breakdown](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/?trackingId=kCRDcBjlTye7W19lCQ2n0A%3D%3D) |
 | PowerShell Automation                        | [JWipe Disk Utility](https://github.com/nigeltho12/Jwipedu) |
 | Python Scripting Fundamentals                | [Python Projects](https://github.com/nigeltho12/filehandling_inpython/) |
+
 
 ---
 
@@ -67,6 +69,10 @@ I'm currently pursuing opportunities in networking and cybersecurity — includi
 
 - 🧠 **SMB Network Assessment & Migration Toolkit**  
   [Realistic SMB Infrastructure Upgrade](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) — Assessment, cloud migration planning, and security strategy using Microsoft 365 and Azure.
+
+- 🛡️ **DoD Cyber Sentinel CTF Writeup June 2025**  
+  [Correlation One Capture the Flag](https://github.com/nigeltho12/DoD_CorrelationOneCyberSentinelCTF) – Multi-discipline CTF write-up covering forensics, web, reverse engineering, OSINT, and networking. Includes metadata extraction, PCAP analysis, Tor recon, and creative flag discovery techniques.
+
 
 - 🧠 **SOC Detection Lab in Azure**  
   [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) – Real traffic, SIEM alerts, and detection logic using Microsoft Sentinel.
