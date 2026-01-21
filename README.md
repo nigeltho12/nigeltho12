@@ -4,7 +4,7 @@
 
 IT professional and systems administrator with a background in networking, endpoint management, and security operations. This GitHub serves as a personal workspace and project archive where I document labs, scripts, configurations, and experiments related to modern IT infrastructure, networking, and defensive security.
 
-I enjoy building and maintaining reliable systems — from configuring network services and identity controls to troubleshooting endpoints and analyzing security telemetry. Most of the work here reflects hands-on learning, problem-solving, and practical exploration rather than polished products.
+I enjoy building and maintaining reliable systems, from configuring network services and identity controls to troubleshooting endpoints and analyzing security telemetry. Most of the work here reflects hands-on learning, problem-solving, and practical exploration rather than polished products.
 
 ---
 
