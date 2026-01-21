@@ -2,12 +2,22 @@
 
 <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT professional and network engineering student with a strong foundation in both networking and cybersecurity. I’m passionate about building, securing, and troubleshooting systems — from configuring switches and firewalls to hunting threats and analyzing logs. Whether it's optimizing uptime or defending infrastructure, I bring curiosity, precision, and drive to every project.
+IT professional and systems administrator with a background in networking, endpoint management, and security operations. This GitHub serves as a personal workspace and project archive where I document labs, scripts, configurations, and experiments related to modern IT infrastructure, networking, and defensive security.
+
+I enjoy building and maintaining reliable systems — from configuring network services and identity controls to troubleshooting endpoints and analyzing security telemetry. Most of the work here reflects hands-on learning, problem-solving, and practical exploration rather than polished products.
 
 ---
 
 ## 🎯 Objective
-I'm currently pursuing opportunities in networking and cybersecurity — including NOC, network support, SOC analyst, and hybrid infrastructure roles. My goal is to grow into a well-rounded engineer who understands both how networks are built and how they’re attacked. I thrive on hands-on labs, packet captures, SIEM alerts, and scripting solutions that keep systems running smoothly and securely.
+
+This GitHub is primarily a project dump and technical journal. It contains hands-on labs, proof-of-concepts, scripts, notes, and experiments across areas such as:
+	•	Networking fundamentals and lab environments
+	•	Systems administration and endpoint management
+	•	Microsoft 365 and identity-related configurations
+	•	Security monitoring, threat analysis, and defensive tooling
+	•	Automation and scripting to support IT operations
+
+Projects are added as I explore new tools, reinforce fundamentals, or document solutions to real-world technical problems. The focus is on learning, iteration, and practical understanding rather than perfection.
 
 ---
 
