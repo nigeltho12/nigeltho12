@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nigel Thompson!
+# 👋 Hi, I'm Nigel T!
 
 <a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
