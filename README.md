@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nigel T!
 
-<a href="https://www.linkedin.com/in/nigel-thompson-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nigel-t-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 IT professional and systems administrator with a background in networking, endpoint management, and security operations. This GitHub serves as a personal workspace and project archive where I document labs, scripts, configurations, and experiments related to modern IT infrastructure, networking, and defensive security.
 
