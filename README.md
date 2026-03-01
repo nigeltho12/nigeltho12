@@ -152,22 +152,14 @@ Exposure includes VLAN segmentation, ACL implementation, routing fundamentals (C
 
 ## 📺 Security Content & Research
 
-- 🎥 Lima Charlie Home Lab Walkthrough  
-- 📰 Net Noir News  
-- 📄 “Yes, I Want to Be a SOC Analyst”
+- 🎥 [Lima Charlie Home Lab Walkthrough](https://www.youtube.com/watch?v=tO2N1mviKWs)
+- 📰 [Net Noir News](https://www.youtube.com/@Blessploit) 
+- 📄 [“Yes, I Want to Be a SOC Analyst”](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/)
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you're into:
 
-- Detection engineering  
-- AI in cybersecurity  
-- Threat hunting  
-- Network security  
-- Offensive security methodology  
-
-We’ll get along just fine.
 
 Feel free to explore the repos or connect on LinkedIn.
