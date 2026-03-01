@@ -5,7 +5,7 @@
 
 Security-focused Systems Administrator evolving into a **Security Engineer (Purple Team track)** with hands-on experience across networking, endpoint management, detection engineering, and security automation.
 
-This GitHub is my technical lab notebook — a place where I build, break, document, refactor, and iterate on real security workflows.
+This GitHub is my technical lab notebook; a place where I build, break, document, refactor, and iterate on real security workflows.
 
 ---
 
