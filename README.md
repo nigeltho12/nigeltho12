@@ -3,23 +3,26 @@
 
 <a href="https://www.linkedin.com/in/nigel-t-8a7995244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security-focused Systems Administrator evolving into a **Security Engineer (Purple Team track)** with hands-on experience across networking, endpoint management, detection engineering, and security automation.
+Security-focused Systems Administrator evolving into a **Security Engineer (Purple Team track)** with hands-on exposure across networking, firewalls, endpoint security, detection engineering, and AI-driven security automation.
 
-This GitHub is my technical lab notebook; a place where I build, break, document, refactor, and iterate on real security workflows.
+This GitHub is my technical lab notebook — a place where I build, break, document, refactor, and iterate on real-world security workflows.
 
 ---
 
 ## 🎯 Current Focus
 
-I’m actively working toward becoming a **Purple Team Engineer → Red Team Operator / Security Researcher**.
+Working toward becoming a:
 
-My work currently centers around:
+**Purple Team Engineer → Red Team Operator / Security Researcher**
+
+Current emphasis:
 
 - 🛡 Detection engineering & SOC workflows  
 - 🤖 AI-assisted security automation  
-- 🌐 Network design & segmentation  
+- 🌐 Network engineering & segmentation  
 - 🔍 Threat hunting & log analysis  
-- ⚙️ Scripting & automation for defensive operations  
+- ⚙️ Scripting & defensive tooling  
+- 🧪 Offensive security fundamentals (OSCP track)
 
 ---
 
@@ -29,16 +32,16 @@ My work currently centers around:
   <img src="https://img.shields.io/badge/-OSCP_Candidate-8B0000?&style=for-the-badge" />
 </div>
 
-Preparing for the **Offensive Security Certified Professional (OSCP)** certification with a focus on:
+Preparing for the **Offensive Security Certified Professional (OSCP)** certification with focus on:
 
-- 🛠 Privilege escalation (Windows & Linux)  
-- 🌐 Network enumeration & exploitation  
-- 🧪 Web application vulnerabilities  
-- 🔍 Active Directory attack paths  
-- 🧠 Manual exploitation techniques  
-- 🐍 Python scripting for offensive tooling  
+- Privilege escalation (Windows & Linux)
+- Network enumeration & exploitation
+- Web application vulnerabilities
+- Active Directory attack paths
+- Manual exploitation methodology
+- Custom scripting during engagements
 
-My training combines CTF practice, lab environments, and real-world defensive insight from SOC and detection engineering work.
+My offensive training is reinforced by real-world defensive experience in SOC and enterprise environments.
 
 ---
 
@@ -53,20 +56,11 @@ A modular AI-driven SOC simulation agent that:
 
 - Interprets investigation prompts  
 - Queries Azure Log Analytics  
-- Applies threat evaluation logic  
-- Enforces guardrails for safe reasoning  
-- Generates structured SOC-style reports  
+- Applies structured threat evaluation  
+- Enforces guardrails for constrained reasoning  
+- Generates deterministic SOC-style reports  
 
-This project explores how AI agents can support modern SOC operations while maintaining deterministic output and constrained behavior.
-
-**Focus Areas:**
-- Prompt engineering
-- Guardrail enforcement
-- Log analytics integration
-- AI workflow orchestration
-- Security automation architecture
-
-This project marks my transition from “using security tools” to **building security systems.**
+This project reflects my transition from using security tools to engineering security systems.
 
 ---
 
@@ -76,13 +70,13 @@ This project marks my transition from “using security tools” to **building s
 |-------|----------|
 | AI Security Automation | [Agentic AI SOC Analyst](https://github.com/nigeltho12/Agentic_Soc_AI) |
 | Network Design + VLAN Routing + ACLs | [SMB Network Redesign](https://github.com/nigeltho12/smb-network-redesign) |
-| Network Assessment + Cloud Migration Planning | [SMB Assessment Toolkit](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) |
-| SIEM Implementation + Log Analysis | [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) |
-| Network Threat Detection with Suricata | [Suricata Log Exploration](https://github.com/nigeltho12/SuricataLogs) |
-| CTF Strategy + Multi-Domain Security Analysis | [DoD Cyber Sentinel CTF](https://github.com/nigeltho12/DoD_CorrelationOneCyberSentinelCTF) |
-| Threat Hunting & KQL | [Cyber Range Detection Exercises](https://github.com/nigeltho12/ThreatHuntScenarios-CyberRange) |
+| Network Assessment + Cloud Migration | [SMB Assessment Toolkit](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) |
+| SIEM + Log Analysis | [Honeynet in Azure](https://github.com/nigeltho12/Honeynet-in-Azure) |
+| IDS & Traffic Analysis | [Suricata Log Exploration](https://github.com/nigeltho12/SuricataLogs) |
+| Threat Hunting (KQL) | [Cyber Range Detection Exercises](https://github.com/nigeltho12/ThreatHuntScenarios-CyberRange) |
+| CTF Multi-Domain Security | [DoD Cyber Sentinel CTF](https://github.com/nigeltho12/DoD_CorrelationOneCyberSentinelCTF) |
 | PowerShell Automation | [JWipe Disk Utility](https://github.com/nigeltho12/Jwipedu) |
-| Python Scripting Fundamentals | [Python Projects](https://github.com/nigeltho12/filehandling_inpython/) |
+| Python Foundations | [Python Projects](https://github.com/nigeltho12/filehandling_inpython/) |
 
 ---
 
@@ -95,6 +89,8 @@ This project marks my transition from “using security tools” to **building s
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge" />
 </div>
 
+---
+
 ### 🔍 SIEM & Detection Engineering
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -103,6 +99,8 @@ This project marks my transition from “using security tools” to **building s
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+---
+
 ### ☁️ Cloud & Identity Security
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
@@ -110,24 +108,33 @@ This project marks my transition from “using security tools” to **building s
   <img src="https://img.shields.io/badge/-Wiz-6C63FF?&style=for-the-badge" />
 </div>
 
+---
+
+### 🌐 Network Engineering & Security
+<div>
+  <img src="https://img.shields.io/badge/-Cisco_(CCNA_Level)-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GNS3-111111?&style=for-the-badge" />
+</div>
+
+Exposure includes VLAN segmentation, ACL implementation, routing fundamentals (CCNA-level labs), and assisting with FortiGate firewall troubleshooting during production outages alongside senior security leadership.
+
+---
+
 ### 🖥️ Endpoint Management
 <div>
   <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jamf-000000?&style=for-the-badge" />
 </div>
 
+---
+
 ### 🧪 Vulnerability & Email Security
 <div>
   <img src="https://img.shields.io/badge/-Tenable-00B388?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Ironscales-1F2937?&style=for-the-badge" />
-</div>
-
-### 🌐 Network & Analysis
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-0C2C56?&style=for-the-badge&logo=Cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GNS3-111111?&style=for-the-badge" />
 </div>
 
 ---
@@ -145,9 +152,9 @@ This project marks my transition from “using security tools” to **building s
 
 ## 📺 Security Content & Research
 
-- 🎥 [Lima Charlie Home Lab Walkthrough](https://youtu.be/tO2N1mviKWs?si=LGRtWICoIUKmOGxA)  
-- 📰 [Net Noir News](https://youtube.com/@netnoirnews?si=c1mTsJsyJ0EWaoWw)  
-- 📄 [“Yes, I Want to Be a SOC Analyst”](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson)
+- 🎥 Lima Charlie Home Lab Walkthrough  
+- 📰 Net Noir News  
+- 📄 “Yes, I Want to Be a SOC Analyst”
 
 ---
 
@@ -158,8 +165,8 @@ If you're into:
 - Detection engineering  
 - AI in cybersecurity  
 - Threat hunting  
-- Networking  
-- Purple team workflows  
+- Network security  
+- Offensive security methodology  
 
 We’ll get along just fine.
 
