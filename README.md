@@ -53,12 +53,15 @@ I document my certification studies publicly — notes, cheatsheets, lab writeup
 |------|--------|------|
 | eJPT v2 — Junior Penetration Tester | 🟡 In Progress | [ejpt-study-repo](https://github.com/nigeltho12/ejpt-study-repo) |
 | BTL1 — Blue Team Level 1 | ✅ Passed (85%) | [btl1-repo](https://github.com/nigeltho12/btl1-repo) |
+| WGU BSCS → MSCS — Computer Science | 🔵 Starting July 2026 | [wgu-cs-journey](https://github.com/nigeltho12/wgu-cs-journey) |
 
 ### What's Inside Each Repo
 
 **[eJPT Study Repo](https://github.com/nigeltho12/ejpt-study-repo)** — Active study notes for the eJPT v2 exam covering recon, scanning, exploitation, Metasploit, post-exploitation, and web app pentesting. Cheatsheets, command references, and progress tracking included.
 
 **[BTL1 Reference Repo](https://github.com/nigeltho12/btl1-repo)** — A post-exam reference guide built from real exam experience. Covers phishing analysis, threat intelligence, digital forensics, Splunk/SIEM, incident response, and network traffic analysis. Includes a lab writeup template you can fork for your own use.
+
+**[WGU CS Journey](https://github.com/nigeltho12/wgu-cs-journey)** — A public journal of the full BSCS → MSCS program at WGU. Course notes, projects, lessons learned, and honest reflections — from Term 1 through the capstone. Starting July 2026.
 
 > Whether you're just starting out or prepping for the same exams — these repos are open. Fork them, use the templates, and make them your own.
 
