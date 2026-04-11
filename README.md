@@ -155,7 +155,7 @@ I document my learning publicly. If you're on a similar path, fork anything here
 
 **[BTL1 Reference Repo](https://github.com/nigeltho12/btl1-repo)** — Post-exam reference guide built from real exam experience. Phishing analysis, threat intel, digital forensics, SIEM, incident response, and network traffic analysis.
 
-**[WGU CS Journey](https://github.com/nigeltho12/wgu-cs-journey)** — A public journal of the full BSCSIA → MSCS program at WGU. Starting July 2026.
+**[WGU BSCSIA → MSCS Journey](https://github.com/nigeltho12/wgu-degree-journey)** — A public journal of the full BSCSIA → MSCS program at WGU. Starting July 2026.
 
 ---
 
