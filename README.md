@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/@Blessploit"><img src="https://img.shields.io/badge/-Blessploit-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://truthshieldtechnologies.com"><img src="https://img.shields.io/badge/-TruthShield_Technologies-292E4C?&style=for-the-badge&logoColor=white" /></a>
 
-**Security Researcher & AI Engineer** — Building at the intersection of cybersecurity and applied AI.
+**Security Researcher & Purple Team Enthusiast** — Building at the intersection of cybersecurity and applied AI.
 
 My work lives in the space between offense and defense. I believe the most effective security practitioners understand both sides of the equation; how attackers think, how defenders detect, and where the gap between them lives. That's the purple team ethos: not a job title, but a discipline. Red and blue teams that operate in isolation leave exploitable gaps. Real security improvement happens when offensive findings directly sharpen defensive controls, and when detection engineers understand the tradecraft they're trying to catch.
 
