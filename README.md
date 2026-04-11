@@ -6,9 +6,9 @@
 
 **Security Researcher & AI Engineer** — Building at the intersection of cybersecurity and applied AI.
 
-My work lives in the space between offense and defense. I believe the most effective security practitioners understand both sides of the equation — how attackers think, how defenders detect, and where the gap between them lives. That's the purple team ethos: not a job title, but a discipline. Red and blue teams that operate in isolation leave exploitable gaps. Real security improvement happens when offensive findings directly sharpen defensive controls, and when detection engineers understand the tradecraft they're trying to catch.
+My work lives in the space between offense and defense. I believe the most effective security practitioners understand both sides of the equation; how attackers think, how defenders detect, and where the gap between them lives. That's the purple team ethos: not a job title, but a discipline. Red and blue teams that operate in isolation leave exploitable gaps. Real security improvement happens when offensive findings directly sharpen defensive controls, and when detection engineers understand the tradecraft they're trying to catch.
 
-I bring that mindset to everything I build — from agentic AI tooling that augments SOC workflows, to threat hunt scenarios grounded in real adversary behavior, to community education that helps everyday people understand what they're actually up against.
+I bring that mindset to everything I build, from agentic AI tooling that augments SOC workflows, to threat hunt scenarios grounded in real adversary behavior, to community education that helps everyday people understand what they're actually up against.
 
 ---
 
@@ -29,7 +29,7 @@ I bring that mindset to everything I build — from agentic AI tooling that augm
 
 Security teams that test in isolation find problems too late. Red teams uncover gaps that blue teams never hear about. Blue teams tune detections against threats they've never actually seen executed.
 
-Purple teaming closes that loop — joint red-blue collaboration where offensive findings directly improve detection rules, SOC workflows, and control validation. Every project in this GitHub reflects some part of that cycle: building the attack, detecting the attack, or engineering the system that bridges both.
+Purple teaming closes that loop; joint red-blue collaboration where offensive findings directly improve detection rules, SOC workflows, and control validation. Every project in this GitHub reflects some part of that cycle: building the attack, detecting the attack, or engineering the system that bridges both.
 
 > *"Purple teaming does not involve integrating red and blue teams on the org chart. It means they develop highly communicative, supportive, and cooperative relationships across the functional boundary."*
 
@@ -51,7 +51,7 @@ A modular, AI-driven SOC simulation agent that:
 - Enforces guardrails for constrained, auditable reasoning
 - Generates deterministic SOC-style reports
 
-This project sits at the core of where I'm headed: security systems that don't just alert — they reason. The same architecture that powers this agent can be extended into threat intel enrichment, automated detection rule generation, and AI-assisted compliance reporting.
+This project sits at the core of where I'm headed: security systems that don't just alert, they reason. The same architecture that powers this agent can be extended into threat intel enrichment, automated detection rule generation, and AI-assisted compliance reporting.
 
 ---
 
@@ -161,7 +161,7 @@ I document my learning publicly. If you're on a similar path, fork anything here
 
 ## 📺 Content & Community
 
-Security that only protects enterprises isn't enough. I make free content for everyday people — breaking down how attacks work, what AI is doing to the threat landscape, and how to stay protected without an enterprise budget.
+Security that only protects enterprises isn't enough. I make free content for everyday people, breaking down how attacks work, what AI is doing to the threat landscape, and how to stay protected without an enterprise budget.
 
 - 🎥 [Blessploit — YouTube](https://www.youtube.com/@Blessploit)
 - 🏢 [TruthShield Technologies](https://truthshieldtechnologies.com) — Faith-driven cybersecurity for businesses and communities
