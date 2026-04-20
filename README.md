@@ -4,36 +4,38 @@
 <a href="https://www.youtube.com/@Blessploit"><img src="https://img.shields.io/badge/-Blessploit-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://truthshieldtechnologies.com"><img src="https://img.shields.io/badge/-TruthShield_Technologies-292E4C?&style=for-the-badge&logoColor=white" /></a>
 
-**Security Researcher & Purple Team Enthusiast** — Building at the intersection of cybersecurity and applied AI.
+**Security Researcher & Purple Team Investigator** — Offense. Defense. Investigation. All the way through.
 
-My work lives in the space between offense and defense. I believe the most effective security practitioners understand both sides of the equation; how attackers think, how defenders detect, and where the gap between them lives. That's the purple team ethos: not a job title, but a discipline. Red and blue teams that operate in isolation leave exploitable gaps. Real security improvement happens when offensive findings directly sharpen defensive controls, and when detection engineers understand the tradecraft they're trying to catch.
+I got into this field because I believe technology should protect people, especially the ones who can't afford an enterprise security team. That conviction shapes everything I build, every threat I hunt, every system I break into to understand how to better defend it.
 
-I bring that mindset to everything I build, from agentic AI tooling that augments SOC workflows, to threat hunt scenarios grounded in real adversary behavior, to community education that helps everyday people understand what they're actually up against.
+My work spans the full attack chain: breaking in, detecting the intrusion, containing the damage, and reconstructing what happened. Not as separate skills. One discipline. The practitioner who can think like an attacker, hunt like a defender, respond like an analyst, and investigate like a forensic examiner is rare. That's the standard I'm building toward.
+
+Faith drives the mission. Technology is the tool. The goal is to protect and uplift the people and communities that need it most.
 
 ---
 
 ## 🎯 Current Focus
 
-**Security Researcher & AI Engineer → Purple Team Practitioner**
+**Purple Team Investigator — Offense, Detection, Response, Forensics**
 
-- 🤖 AI-augmented security systems — agentic tooling, LLM-driven threat evaluation, automated detection pipelines
-- 🛡 Detection engineering & SOC workflow improvement
-- ⚔️ Offensive fundamentals — understanding attacker tradecraft to build better defenses
-- 🔍 Threat hunting & adversary emulation (MITRE ATT&CK aligned)
-- 🌐 Network security, lateral movement detection, identity-based attack paths
-- 🏗 Building TruthShield Technologies — faith-driven cybersecurity for businesses and communities that need it
+- ⚔️ Offensive security fundamentals — exploitation, tradecraft, adversary emulation
+- 🔍 Threat hunting & detection engineering — KQL, MITRE ATT&CK, behavioral analytics
+- 🚨 Incident response — triage, containment, root cause analysis
+- 🧩 Digital forensics — evidence preservation, artifact analysis, timeline reconstruction
+- 🤖 AI-augmented security tooling — agentic systems that extend analyst capability
+- 🏗 Building [TruthShield Technologies](https://truthshieldtechnologies.com) — faith-driven cybersecurity for businesses and communities that need it most
 
 ---
 
-## 🧠 Why Purple Team?
+## 🧠 Why the Full Chain?
 
-Security teams that test in isolation find problems too late. Red teams uncover gaps that blue teams never hear about. Blue teams tune detections against threats they've never actually seen executed.
+Most practitioners live on one side of the equation. Red teams break things. Blue teams monitor things. Forensics teams investigate after the fact. Each discipline in isolation leaves blind spots.
 
-Purple teaming closes that loop; joint red-blue collaboration where offensive findings directly improve detection rules, SOC workflows, and control validation. Every project in this GitHub reflects some part of that cycle: building the attack, detecting the attack, or engineering the system that bridges both.
+The practitioners who move fluidly across all four — who can execute an attack, detect it, respond to it, and forensically reconstruct it — are the ones who actually close gaps rather than just document them.
 
-> *"Purple teaming does not involve integrating red and blue teams on the org chart. It means they develop highly communicative, supportive, and cooperative relationships across the functional boundary."*
+Purple teaming is the philosophy. Forensic investigation is the discipline underneath it. Every project in this GitHub reflects some part of that loop.
 
-That's the standard I hold myself to. This repo is my lab notebook.
+> *"The goal is not to be the best attacker or the best defender. It's to understand the full story, beginning to end."*
 
 ---
 
@@ -51,7 +53,7 @@ A modular, AI-driven SOC simulation agent that:
 - Enforces guardrails for constrained, auditable reasoning
 - Generates deterministic SOC-style reports
 
-This project sits at the core of where I'm headed: security systems that don't just alert, they reason. The same architecture that powers this agent can be extended into threat intel enrichment, automated detection rule generation, and AI-assisted compliance reporting.
+Security tools that don't just alert. They reason. This is the direction the field is heading, and this project is my stake in the ground.
 
 ---
 
@@ -140,9 +142,11 @@ This project sits at the core of where I'm headed: security systems that don't j
 |---|---|
 | CompTIA Security+ | ✅ Certified |
 | CompTIA Network+ | ✅ Certified |
-| Blue Team Level 1 (BTL1) | ✅ Passed — 85% |
+| Blue Team Level 1 (BTL1) | ✅ Passed, 85% |
 | ISC2 Certified in Cybersecurity (CC) | ✅ Certified |
+| Google Cybersecurity Certificate | ✅ Certified |
 | eJPT v2 — Junior Penetration Tester | 🟡 In Progress |
+| OSCP — Offensive Security Certified Professional | 🎯 Target |
 | WGU BSCSIA → MSCS (AI/ML) | 🔵 Starting July 2026 |
 
 ---
@@ -159,12 +163,20 @@ I document my learning publicly. If you're on a similar path, fork anything here
 
 ---
 
+## 🙏 The Mission Behind the Work
+
+I didn't get into cybersecurity for the salary benchmarks or the job titles. I got in because I've watched people in my community get scammed, exploited, and left unprotected because good security costs more than they can afford.
+
+TruthShield Technologies exists to close that gap. Faith-driven cybersecurity for the businesses, churches, and families that enterprise vendors ignore. Blessploit and Net Noir News exist to make security knowledge accessible to everyone, not just the people who can afford a conference ticket.
+
+The technical work and the community work are the same mission. Build the skills. Use them to protect people. Point the credit upward.
+
+---
+
 ## 📺 Content & Community
 
-Security that only protects enterprises isn't enough. I make free content for everyday people, breaking down how attacks work, what AI is doing to the threat landscape, and how to stay protected without an enterprise budget.
-
 - 🎥 [Blessploit — YouTube](https://www.youtube.com/@Blessploit)
-- 🏢 [TruthShield Technologies](https://truthshieldtechnologies.com) — Faith-driven cybersecurity for businesses and communities
+- 🏢 [TruthShield Technologies](https://truthshieldtechnologies.com)
 - 📄 ["Yes, I Want to Be a SOC Analyst" — LinkedIn](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/)
 - 🎥 [Lima Charlie Home Lab Walkthrough](https://www.youtube.com/watch?v=tO2N1mviKWs)
 
