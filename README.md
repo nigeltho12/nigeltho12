@@ -14,20 +14,20 @@ Faith drives the mission. Technology is the tool. The goal is to protect and upl
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 **Purple Team Investigator — Offense, Detection, Response, Forensics**
 
-- ⚔️ Offensive security fundamentals — exploitation, tradecraft, adversary emulation
-- 🔍 Threat hunting & detection engineering — KQL, MITRE ATT&CK, behavioral analytics
-- 🚨 Incident response — triage, containment, root cause analysis
-- 🧩 Digital forensics — evidence preservation, artifact analysis, timeline reconstruction
-- 🤖 AI-augmented security tooling — agentic systems that extend analyst capability
-- 🏗 Building [TruthShield Technologies](https://truthshieldtechnologies.com) — faith-driven cybersecurity for businesses and communities that need it most
+-  Offensive security fundamentals — exploitation, tradecraft, adversary emulation
+-  Threat hunting & detection engineering — KQL, MITRE ATT&CK, behavioral analytics
+-  Incident response — triage, containment, root cause analysis
+-  Digital forensics — evidence preservation, artifact analysis, timeline reconstruction
+-  AI-augmented security tooling — agentic systems that extend analyst capability
+-  Building [TruthShield Technologies](https://truthshieldtechnologies.com) — faith-driven cybersecurity for businesses and communities that need it most
 
 ---
 
-## 🧠 Why the Full Chain?
+## Why the Full Chain?
 
 Most practitioners live on one side of the equation. Red teams break things. Blue teams monitor things. Forensics teams investigate after the fact. Each discipline in isolation leaves blind spots.
 
@@ -39,7 +39,7 @@ Purple teaming is the philosophy. Forensic investigation is the discipline under
 
 ---
 
-## 🤖 Featured Project — Agentic AI SOC Analyst
+## Featured Project — Agentic AI SOC Analyst
 
 **Python | LLM API | Azure Log Analytics | Guardrails**
 
@@ -57,7 +57,7 @@ Security tools that don't just alert. They reason. This is the direction the fie
 
 ---
 
-## 🧠 Skills & Projects
+## Skills & Projects
 
 | Skill | Project |
 |-------|---------|
@@ -74,9 +74,9 @@ Security tools that don't just alert. They reason. This is the direction the fie
 
 ---
 
-## 🧰 Tools & Platforms
+## Tools & Platforms
 
-### 🤖 AI & Automation
+### AI & Automation
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-LLM_APIs-412991?&style=for-the-badge" />
@@ -84,14 +84,14 @@ Security tools that don't just alert. They reason. This is the direction the fie
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
-### 🛡 Endpoint Detection & Response
+### Endpoint Detection & Response
 <div>
   <img src="https://img.shields.io/badge/-CrowdStrike-ED1C24?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge" />
 </div>
 
-### 🔍 SIEM & Detection Engineering
+### SIEM & Detection Engineering
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Datadog-632CA6?&style=for-the-badge&logo=Datadog&logoColor=white" />
@@ -99,14 +99,14 @@ Security tools that don't just alert. They reason. This is the direction the fie
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### ☁️ Cloud & Identity Security
+### Cloud & Identity Security
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-5E5E5E?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wiz-6C63FF?&style=for-the-badge" />
 </div>
 
-### 🌐 Network Engineering & Security
+### Network Engineering & Security
 <div>
   <img src="https://img.shields.io/badge/-Cisco_(CCNA_Level)-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge" />
@@ -114,13 +114,13 @@ Security tools that don't just alert. They reason. This is the direction the fie
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
-### 🖥️ Endpoint Management
+### Endpoint Management
 <div>
   <img src="https://img.shields.io/badge/-Intune-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jamf-000000?&style=for-the-badge" />
 </div>
 
-### 🧪 Vulnerability & Email Security
+### Vulnerability & Email Security
 <div>
   <img src="https://img.shields.io/badge/-Tenable-00B388?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Ironscales-1F2937?&style=for-the-badge" />
@@ -128,7 +128,7 @@ Security tools that don't just alert. They reason. This is the direction the fie
 
 ---
 
-## 📜 Certifications & Education
+## Certifications & Education
 
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -151,7 +151,7 @@ Security tools that don't just alert. They reason. This is the direction the fie
 
 ---
 
-## 📖 Study With Me
+## Study With Me
 
 I document my learning publicly. If you're on a similar path, fork anything here and make it your own.
 
@@ -173,12 +173,12 @@ The technical work and the community work are the same mission. Build the skills
 
 ---
 
-## 📺 Content & Community
+## Content & Community
 
-- 🎥 [Blessploit — YouTube](https://www.youtube.com/@Blessploit)
-- 🏢 [TruthShield Technologies](https://truthshieldtechnologies.com)
-- 📄 ["Yes, I Want to Be a SOC Analyst" — LinkedIn](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/)
-- 🎥 [Lima Charlie Home Lab Walkthrough](https://www.youtube.com/watch?v=tO2N1mviKWs)
+- [Blessploit — YouTube](https://www.youtube.com/@Blessploit)
+- [TruthShield Technologies](https://truthshieldtechnologies.com)
+- ["Yes, I Want to Be a SOC Analyst" — LinkedIn](https://www.linkedin.com/pulse/yes-i-want-soc-analyst-nigel-thompson/)
+- [Lima Charlie Home Lab Walkthrough](https://www.youtube.com/watch?v=tO2N1mviKWs)
 
 ---
 
