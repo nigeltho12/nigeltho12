@@ -14,16 +14,16 @@ Faith drives the mission. Technology is the tool. The goal is to protect and upl
 
 ---
 
-##  Current Focus
+## Current Focus
 
 **Purple Team Investigator — Offense, Detection, Response, Forensics**
 
--  Offensive security fundamentals — exploitation, tradecraft, adversary emulation
--  Threat hunting & detection engineering — KQL, MITRE ATT&CK, behavioral analytics
--  Incident response — triage, containment, root cause analysis
--  Digital forensics — evidence preservation, artifact analysis, timeline reconstruction
--  AI-augmented security tooling — agentic systems that extend analyst capability
--  Building [TruthShield Technologies](https://truthshieldtechnologies.com) — faith-driven cybersecurity for businesses and communities that need it most
+- Offensive security fundamentals — exploitation, tradecraft, adversary emulation
+- Threat hunting & detection engineering — KQL, MITRE ATT&CK, behavioral analytics
+- Incident response — triage, containment, root cause analysis
+- Digital forensics — evidence preservation, artifact analysis, timeline reconstruction
+- AI-augmented security tooling — agentic systems that extend analyst capability
+- Building [TruthShield Technologies](https://truthshieldtechnologies.com) — faith-driven cybersecurity for businesses and communities that need it most
 
 ---
 
@@ -134,6 +134,7 @@ Security tools that don't just alert. They reason. This is the direction the fie
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-BTL1-1E3A8A?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-eJPT-black?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ISC2_CC-000080?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-006400?&style=for-the-badge" />
 </div>
@@ -143,11 +144,11 @@ Security tools that don't just alert. They reason. This is the direction the fie
 | CompTIA Security+ | ✅ Certified |
 | CompTIA Network+ | ✅ Certified |
 | Blue Team Level 1 (BTL1) | ✅ Passed, 85% |
+| eJPT v2 — Junior Penetration Tester | ✅ Certified |
 | ISC2 Certified in Cybersecurity (CC) | ✅ Certified |
 | Google Cybersecurity Certificate | ✅ Certified |
-| eJPT v2 — Junior Penetration Tester | 🟡 In Progress |
 | OSCP — Offensive Security Certified Professional | 🎯 Target |
-| WGU BSCSIA → MSCS (AI/ML) | 🔵 Starting July 2026 |
+| WGU BSCS → MSCS | 🔵 Starting July 2026 |
 
 ---
 
@@ -155,15 +156,15 @@ Security tools that don't just alert. They reason. This is the direction the fie
 
 I document my learning publicly. If you're on a similar path, fork anything here and make it your own.
 
-**[eJPT Study Repo](https://github.com/nigeltho12/ejpt-study-repo)** — Active study notes for eJPT v2 covering recon, scanning, exploitation, Metasploit, post-exploitation, and web app pentesting.
+**[eJPT Study Repo](https://github.com/nigeltho12/ejpt-study-repo)** — Complete study notes from eJPT v2 prep and the exam itself. Covers recon, scanning, exploitation, Metasploit, post-exploitation, and web app pentesting. Certified — open for anyone on the same path.
 
 **[BTL1 Reference Repo](https://github.com/nigeltho12/btl1-repo)** — Post-exam reference guide built from real exam experience. Phishing analysis, threat intel, digital forensics, SIEM, incident response, and network traffic analysis.
 
-**[WGU BSCSIA → MSCS Journey](https://github.com/nigeltho12/wgu-degree-journey)** — A public journal of the full BSCSIA → MSCS program at WGU. Starting July 2026.
+**[WGU BSCS → MSCS Journey](https://github.com/nigeltho12/wgu-degree-journey)** — A public journal of the full BSCS → MSCS program at WGU. Starting July 2026.
 
 ---
 
-## 🙏 The Mission Behind the Work
+## The Mission Behind the Work
 
 I didn't get into cybersecurity for the salary benchmarks or the job titles. I got in because I've watched people in my community get scammed, exploited, and left unprotected because good security costs more than they can afford.
 
