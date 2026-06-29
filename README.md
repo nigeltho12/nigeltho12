@@ -72,6 +72,8 @@ Security tools that don't just alert. They reason. This is the direction the fie
 | Offensive Fundamentals | [eJPT Study Repo](https://github.com/nigeltho12/ejpt-study-repo) |
 | Blue Team Reference | [BTL1 Repo](https://github.com/nigeltho12/btl1-repo) |
 
+> 📎 **Purple Team Angles:** [Attack → Detection mapping reference](https://github.com/nigeltho12/sc200-study-repo/blob/main/notes/purple-team-angles.md) — MITRE ATT&CK techniques mapped to KQL detections across MDE, Sentinel, and Defender XDR.
+
 ---
 
 ## Tools & Platforms
