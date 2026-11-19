@@ -27,12 +27,12 @@ I got into this field because I believe technology should protect people, especi
 
 ## Where I'm Headed
 
-SOC and incident response first. Offensive and forensic skills that make me a better responder. Purple team is the long game.
+Finishing my degree comes first. After that, I'm moving my study and work toward red and purple team: learning attacks well enough to execute them, then turning each one into a detection.
 
-- **Detection engineering as code:** Sigma rules and Datadog Cloud SIEM rules in Terraform, mapped to MITRE ATT&CK
+- **Offensive fundamentals:** building on eJPT toward deeper exploitation, Active Directory attacks, and adversary emulation
+- **Detection engineering as code:** Sigma rules and Datadog Cloud SIEM rules in Terraform, mapped to MITRE ATT&CK, so every technique I practice ends with a detection
 - **Threat hunting:** KQL hunts across Defender and Sentinel telemetry
-- **AI-augmented security tooling:** agents that extend analyst capability without giving up auditability
-- **Home lab:** building out an environment to test attacks and detections end to end
+- **Home lab:** building out an environment to run attacks and test detections end to end
 
 ---
 
@@ -84,8 +84,6 @@ I document my learning publicly. If you're on a similar path, fork anything here
 **[eJPT Study Repo](https://github.com/nigeltho12/ejpt-study-repo)** and **[eJPT Cheat Sheets](https://github.com/nigeltho12/ejpt-cheatsheets)**: notes and quick references from eJPT v2 prep and the exam. Recon, scanning, exploitation, Metasploit, post-exploitation, and web app testing.
 
 **[BTL1 Reference Repo](https://github.com/nigeltho12/btl1-repo)**: post-exam reference built from the real exam. Phishing analysis, threat intel, digital forensics, SIEM, incident response, and network traffic analysis.
-
-**[WGU Degree Journey](https://github.com/nigeltho12/wgu-degree-journey)**: a public journal of my degree path, from transfer coursework through the B.S.
 
 ---
 
