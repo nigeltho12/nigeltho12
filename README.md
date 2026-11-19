@@ -16,10 +16,10 @@ I got into this field because I believe technology should protect people, especi
 
 **Help Desk Engineer (Security-Embedded)**, insurance industry
 
-- Investigate user-reported phishing and Datadog security alerts end to end, correlating evidence across Datadog, Wiz, Zscaler, Defender, Entra ID, and Purview, then hand documented findings to security engineering
-- Manage identity and access in Entra ID and Microsoft 365 through just-in-time PIM roles
-- Endpoint security and vulnerability management across Windows (Intune) and macOS (Jamf)
-- IT custodian for audit-visible security platforms supporting ISO 27001 audits
+- Triage user-reported phishing and security alerts end to end, gathering evidence across identity, endpoint, email, network, and cloud logging sources and handing it to the owning team
+- Administer identity, access, and endpoint management with least-privilege, just-in-time privileged roles
+- Endpoint security and vulnerability management across a hybrid Windows and macOS fleet
+- Secondary custodian for audit-visible security platforms, supporting compliance and external audits
 
 > Nothing in this GitHub comes from my employer's environment. Everything public here is lab-built or generalized. Knowing where that line sits is part of the job.
 
@@ -55,9 +55,9 @@ Finishing my degree comes first. After that, I'm moving my study and work toward
 
 ## Tools & Platforms
 
-**Daily, in production:** Datadog · Microsoft Defender · Wiz · Zscaler · Entra ID (PIM) · Microsoft 365 · Purview · Intune · Jamf / Jamf Protect · KnowBe4 PhishER · CrowdStrike
+**Day to day:** SIEM and log analytics · EDR · cloud identity and privileged access management · email security and phishing triage · secure web gateway · SaaS and cloud security posture management · MDM for Windows and macOS
 
-**Previous roles:** CrowdStrike Falcon · Ironscales · Tenable · Microsoft Sentinel · Active Directory · SolarWinds · PRTG
+**Previous roles:** Tenable · Microsoft Sentinel · Active Directory · SolarWinds · PRTG
 
 **Labs and coursework:** Splunk · KQL · Wireshark · Suricata · Cisco Packet Tracer · Kali Linux · Nmap · Metasploit · Burp Suite
 
