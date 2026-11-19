@@ -49,7 +49,7 @@ Finishing my degree comes first. After that, I'm moving my study and work toward
 | [SMB Assessment & Migration Toolkit](https://github.com/nigeltho12/SMB_Network_Assessment_Migration_Toolkit) | Network assessment, M365 and Azure migration plan, layered security strategy |
 | [DoD Cyber Sentinel CTF](https://github.com/nigeltho12/DoD_CorrelationOneCyberSentinelCTF) | June 2025 writeup: ranked 727th of roughly 6,000 participants |
 
-> 📎 **Purple Team Angles:** [Attack to detection mapping](https://github.com/nigeltho12/sc200-study-repo/blob/main/notes/purple-team-angles.md), MITRE ATT&CK techniques mapped to KQL detections across MDE, Sentinel, and Defender XDR.
+> 📎 **Purple Team Angles:** [Attack to detection mapping](https://github.com/nigeltho12/detection-engineering/blob/main/docs/purple-team-angles.md), MITRE ATT&CK techniques mapped to KQL detections across MDE, Sentinel, and Defender XDR.
 
 ---
 
